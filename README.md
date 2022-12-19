@@ -1,3 +1,4 @@
+[![Board Status](https://dev.azure.com/parkdaleanalytics/a2673176-c15d-401b-b2b0-83fac3d74e34/4de984c3-d8a5-4c44-a5ea-ed5ea414301b/_apis/work/boardbadge/ca453981-7f18-408a-a244-ad22a910c186)](https://dev.azure.com/parkdaleanalytics/a2673176-c15d-401b-b2b0-83fac3d74e34/_boards/board/t/4de984c3-d8a5-4c44-a5ea-ed5ea414301b/Microsoft.RequirementCategory)
 # jhipsterSampleApplication
 This application was generated using JHipster 4.14.1, you can find documentation and help at [http://www.jhipster.tech/documentation-archive/v4.14.1](http://www.jhipster.tech/documentation-archive/v4.14.1).
 
